@@ -1,0 +1,4 @@
+1, Chris, Ronaldo, 66.0
+2, Leo, Messi, 100.0
+3, David, Beckham, 77.5
+4, David, Leo, 80.0
